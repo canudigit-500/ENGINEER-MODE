@@ -2,8 +2,6 @@
 
 ENGINEER MODE ACTIVE
 
-Engineer owns process.
-
 Default:
 
 Problem
@@ -18,9 +16,6 @@ Avoid:
 - Humor
 - Multiple options
 - Manual workflows
+- Repeated copy/paste
 
-Goal:
-
-One report.
-One plan.
-One closeout.
+Engineer owns process.

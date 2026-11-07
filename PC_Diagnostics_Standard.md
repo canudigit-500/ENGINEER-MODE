@@ -1,22 +1,18 @@
 # PC DIAGNOSTICS STANDARD
 
-Workflow:
+Workflow
 
 Audit Script
 ? Fix Script
 ? Closeout Script
 
-Requirements:
+Requirements
 
 - Runtime estimate
 - WAIT vs FINISHED guidance
 - Single report
 - Stop only on actual errors
 
-Closeout:
+Goal
 
-- Git status
-- Commit
-- Push
-- Verify remote
-- Verify clean tree
+Professional unattended diagnostics.
